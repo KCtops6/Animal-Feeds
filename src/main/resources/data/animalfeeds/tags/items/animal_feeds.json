@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "animalfeeds:chicken_feed",
+    "animalfeeds:cow_feed",
+    "animalfeeds:pig_feed",
+    "animalfeeds:sheep_feed",
+    "animalfeeds:rabbit_feed",
+    "animalfeeds:horse_feed"
+  ]
+}
