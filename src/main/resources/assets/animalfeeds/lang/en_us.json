@@ -1,0 +1,19 @@
+{
+  "item.animalfeeds.chicken_feed": "Chicken Feed",
+  "item.animalfeeds.chicken_feed.tooltip": "Spawns a Chicken when used on the ground.",
+
+  "item.animalfeeds.cow_feed": "Cow Feed",
+  "item.animalfeeds.cow_feed.tooltip": "Spawns a Cow when used on the ground.",
+
+  "item.animalfeeds.pig_feed": "Pig Feed",
+  "item.animalfeeds.pig_feed.tooltip": "Spawns a Pig when used on the ground.",
+
+  "item.animalfeeds.sheep_feed": "Sheep Feed",
+  "item.animalfeeds.sheep_feed.tooltip": "Spawns a Sheep when used on the ground.",
+
+  "item.animalfeeds.rabbit_feed": "Rabbit Feed",
+  "item.animalfeeds.rabbit_feed.tooltip": "Spawns a Rabbit when used on the ground.",
+
+  "item.animalfeeds.horse_feed": "Horse Feed",
+  "item.animalfeeds.horse_feed.tooltip": "Spawns a Horse when used on the ground."
+}
